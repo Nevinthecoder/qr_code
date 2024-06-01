@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(219, 44%, 86%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    background-color: hsl(219, 43%, 73%);
+    border-radius: 5px;
+    margin: 100px;
+    padding: 20px;
+    width: 900px;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+}
+
+.sub{
+    background-color: hsl(0, 0%, 100%);
+    margin: 100px;
+    padding: 15px;
+    border-radius: 5px;
+    width: 200px;
+    height: 320px;
+    justify-items: center;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-optical-sizing: auto;
+    font-size: normal;
+}
+
+.sub img{
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+}
